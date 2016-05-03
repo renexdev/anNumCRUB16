@@ -3,9 +3,10 @@ Calculo Numerico - 2016 de la Universidad del Comahue. Centro Regional Bariloche
 Profesorado y Licenciatura en Matematicas
 http://crubweb.uncoma.edu.ar/
 
-Dr. Rene Cejas Bolecek
+Dr. René Cejas Bolecek
 email: reneczech@gmail.com
-
+JTP: Martín René Vilugrón
+email: martinvilu@gmail.com
 
 Modulos en python utilizados en la práctica de la materia
 Codigo del libro:
