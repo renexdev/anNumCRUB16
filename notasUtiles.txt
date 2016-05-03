@@ -1,3 +1,5 @@
 Tutorial simple para usar git
 
 http://rogerdudler.github.io/git-guide/
+
+Se pueden agregar links a tutoriales que les pase Martin en la practica

@@ -4,7 +4,7 @@ Profesorado y Licenciatura en Matematicas
 http://crubweb.uncoma.edu.ar/
 
 Dr. Rene Cejas Bolecek
-email: reneczechdev@gmail.com
+email: reneczech@gmail.com
 
 
 Modulos en python utilizados en la práctica de la materia
