@@ -6,9 +6,6 @@ http://crubweb.uncoma.edu.ar/
 Dr. René Cejas Bolecek
 email: reneczech@gmail.com
 
-JTP: Martín René Vilugrón
-email: martinvilu@gmail.com
-
 Modulos en python utilizados en la práctica de la materia
 Codigo del libro:
 Numerical Methods in Engineering with Python 3 3rd Edition (2013)
