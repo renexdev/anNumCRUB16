@@ -17,32 +17,24 @@
 # import sys
 # sys.path.append("path relativo a /modules/")
 
-# Implementacion romberg
-# I,nPanels = romberg(f,a,b,tol=1.0e-6).
-# Romberg intergration of f(x) from x = a to b.
-# Returns the integral and the number of panels used.
+# Implementacion gaussElimin
+# x = gaussElimin(a,b).
+# Solves [a]{b} = {x} by Gauss elimination.
 ##########################################################################################################
-from numpy import zeros
-from trapezoid import *
 
-def romberg(f,a,b,tol=1.0e-6):
-    
-    def richardson(r,k):
-        for j in range(k-1,0,-1):
-            const = 4.0**(k-j)
-            r[j] = (const*r[j+1] - r[j])/(const - 1.0)
-        return r
-     
-    r = zeros((21),dtype=float)
-    r[1] = trapezoid(f,a,b,0.0,1)
-    r_old = r[1]
-    for k in range(2,21):
-        r[k] = trapezoid(f,a,b,r[k-1],k)
-        r = richardson(r,k)
-        if abs(r[1]-r_old) < tol*max(abs(r[1]),1.0):
-            return r[1],2**(k-1)
-        r_old = r[1]
-    print "Romberg quadrature did not converge"
+from numpy import dot
 
-
-
+def gaussElimin(a,b):
+    n = len(b)
+  # Elimination Phase
+    for k in range(0,n-1):
+        for i in range(k+1,n):
+           if a[i,k] != 0.0:
+               lam = a [i,k]/a[k,k]
+               a[i,k+1:n] = a[i,k+1:n] - lam*a[k,k+1:n]
+               b[i] = b[i] - lam*b[k]
+  # Back substitution
+    for k in range(n-1,-1,-1):
+        b[k] = (b[k] - dot(a[k,k+1:n],b[k+1:n]))/a[k,k]
+    print b.T[0]    
+    return b.T

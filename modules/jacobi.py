@@ -27,10 +27,15 @@ def jacobi(A,b,N=25,x=None):
     # and subtract them from A                                                                                                                                                                     
     D = diag(A)
     R = A - diagflat(D)
-
+    print R
+    print D
     # Iterate for N times                                                                                                                                                                          
     for i in range(N):
+        print (b - dot(R,x))
+        print dot(R,x)
+        print b
         x = (b - dot(R,x)) / D
+        print x
     return x
         
 

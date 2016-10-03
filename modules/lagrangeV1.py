@@ -37,3 +37,4 @@ def lagrange(points):
       total += yi * g(i, n)
     return total
   return P 
+  
