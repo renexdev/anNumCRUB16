@@ -9,6 +9,7 @@ email: reneczech@gmail.com
 Material complementario de teoría. Prácticas. Modulos en python utilizados en la práctica de la materia. 
 
 Calendario 2016 2do cuatrimestre
+
 09/08: U1. Aritmetica computacional. Punto fijo.
 
 16/08: U1. Punto flotante. Errores. Ejemplos derivada numerica.
