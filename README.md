@@ -27,23 +27,22 @@ Calendario 2016 2do cuatrimestre
 
 27/09: U3. Interpolación y aproximación polinómica. Teorema de Weierstrass. Polinomios de Lagrange. Método de Newton. Teoremas solucion única y errores. Método de Neville. Limitaciones de las interpolaciones polinómicas.
 
-04/10: Spline Cúbico. Mínimos cuadrados. Implementación de algoritmos en Python. Uso de Gnuplot.
+04/10: U3. Spline Cúbico. Mínimos cuadrados. Implementación de algoritmos en Python. Uso de Gnuplot.
 
 11/10: 1er Parcial
 
-18/10: Raíces de ecuaciones. Búsqueda incremental. Bisección. Regula Falsi. Secante. Método de Ridder.
+18/10: U4. Raíces de ecuaciones. Búsqueda incremental. Bisección. Regula Falsi. Secante. Método de Ridder.
  
-25/10: Método de Newton-Rapson. Implementación en Python. N-R para resolver sistemas de ecuaciones No lineales. Evaluación de polinomios. Disminución del grado de polinomios.
+25/10: U4. Método de Newton-Rapson. Implementación en Python. N-R para resolver sistemas de ecuaciones No lineales. Evaluación de polinomios. Disminución del grado de polinomios.
 
-01/11: 
+01/11: U4. N-R para resolver sistemas de ecuaciones No lineales. Evaluación de polinomios. Disminución del grado de polinomios. Introducción al método de Laguerre. U5 Intoducción Método de diferencias finitas.
 
-08/11: 
+08/11: U5 Método de diferencias finitas. Central y no central. U6. Fórmulas de Newton-Cotes. Regla trapezoide. Método de Simpson. Integración de Romberg. 
 
-15/11: 
+15/11: U5. Integración Gaussiana. Determinación de nodos y pesos. Ej. Gauss- Legendre.
 
-22/11: 
+22/11: Segundo Parcial
 
-29/11:
 
 
 
