@@ -33,9 +33,9 @@ Calendario 2016 2do cuatrimestre
 
 18/10: U4. Raíces de ecuaciones. Búsqueda incremental. Bisección. Regula Falsi. Secante. Método de Ridder.
  
-25/10: U4. Método de Newton-Rapson. Implementación en Python. N-R para resolver sistemas de ecuaciones No lineales. Evaluación de polinomios. Disminución del grado de polinomios.
+25/10: U4. Método de Newton-Rapson. Implementación en Python. N-R para resolver sistemas de ecuaciones No lineales. Ejemplos.
 
-01/11: U4. N-R para resolver sistemas de ecuaciones No lineales. Evaluación de polinomios. Disminución del grado de polinomios. Introducción al método de Laguerre. U5 Intoducción Método de diferencias finitas. Central y no central
+01/11: U4. Evaluación de polinomios. Disminución del grado de polinomios. Introducción al método de Laguerre. U5 Intoducción Método de diferencias finitas. Central y no central
 
 08/11: U5 Extrapolación de Richarson. Derivadas por interpolación.  U6. Fórmulas de Newton-Cotes. Regla trapezoide. Método de Simpson. Integración de Romberg. 
 
