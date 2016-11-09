@@ -37,9 +37,10 @@ Calendario 2016 2do cuatrimestre
 
 01/11: U4. Evaluación de polinomios. Disminución del grado de polinomios. Introducción al método de Laguerre. U5 Intoducción Método de diferencias finitas. Central y no central
 
-08/11: U5 Extrapolación de Richarson. Derivadas por interpolación.  U6. Fórmulas de Newton-Cotes. Regla trapezoide. Método de Simpson. Integración de Romberg. 
+08/11: U5 Extrapolación de Richarson. Derivadas por interpolación.  U6. Fórmulas de Newton-Cotes. Regla trapezoide. Método de Simpson. 
 
-15/11: U5. Integración Gaussiana. Determinación de nodos y pesos. Ej. Gauss- Legendre.
+15/11: U5. Cuadraturas de Gauss:
+Gauss-Legendre, Gauss-Chebyshev, Gauss-Laguerre, Gauss-Hermite, Gauss con singularidad logarítmica. (Apunte de cuadraturas en teórico de Integrales). Integración de Romberg. 
 
 22/11: Segundo Parcial
 
