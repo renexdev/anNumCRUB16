@@ -44,7 +44,7 @@ Gauss-Legendre, Gauss-Chebyshev, Gauss-Laguerre, Gauss-Hermite, Gauss con singul
 
 22/11: Segundo Parcial
 
-
+24/11: Fecha límite de entrega de Trabajos Prácticos para acceder a Promoción.
 
 
 
