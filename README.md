@@ -12,16 +12,17 @@ Material complementario de teoría. Prácticas. Algunos de los módulos en pytho
 
 07/08: U1. Aritmetica computacional. Punto fijo.
 
-14/08: U1. Punto flotante. Errores. Ejemplos derivada numerica.
+14/08: U1. Punto flotante. Errores.
 
 21/08: Feriado:  Paso a la Inmortalidad del General José de San Martín Fecha Original: 17-08-2017
 
-28/08: Ejemplos integracion numerica. Velocidad de cálculo. 
-       U2. Repaso álgebra lineal. Método Gauss. Implementación en python. Número de condicionamiento.
+28/08: U1. Aritmética a dígitos finitos. Ejemplos. Aritmética anidada. 
 
-04/09: U2. Métodos factorización LU. Teoremas. Método Doolittle.
+04/08: U1. Ejemplos derivada numérica. Ejemplos integracion numerica. Caracterización de algoritmos. Rapidez de convergencia.  U2. Repaso álgebra lineal. Método Gauss. Implementación en python. Número de condicionamiento.
 
-11/09: U2. Método Cholesky. Pivoteo. Matrices definidas positivas. Matrices especiales. Inversa.
+11/09: U2. Métodos factorización LU. Teoremas. Método Doolittle.
+
+18/09: U2. Método Cholesky. Pivoteo. Matrices definidas positivas. Matrices especiales. Inversa.
 
 18/09: U2. Métodos iterativos estacionarios.Método de Gauss-Seidel. Método Jacobi. Convergencia.
 
