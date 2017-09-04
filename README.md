@@ -1,14 +1,14 @@
-#Calculo Numerico - 2017 de la Universidad del Comahue. Centro Regional Bariloche
+# Calculo Numerico - 2017 de la Universidad del Comahue. Centro Regional Bariloche
 
-##Profesorado y Licenciatura en Matematicas
+## Profesorado y Licenciatura en Matematicas
 http://crubweb.uncoma.edu.ar/
 
-###Dr. René Cejas Bolecek
-###email: reneczech@gmail.com
+### Dr. René Cejas Bolecek
+### email: reneczech@gmail.com
 
 Material complementario de teoría. Prácticas. Algunos de los módulos en python utilizados en la práctica de la materia. 
 
-##Calendario 2017 2do cuatrimestre:
+## Calendario 2017 2do cuatrimestre:
 
 07/08: U1. Aritmetica computacional. Punto fijo.
 
