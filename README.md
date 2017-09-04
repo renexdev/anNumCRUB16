@@ -19,7 +19,7 @@ redondeo y truncamiento. Error absoluto y relativo.
 
 28/08: U1. Aritmética a dígitos finitos. Ejemplos. Multiplicaciones anidadas (cálculo de raíces de polinomios). 
 
-04/08: U1. Estimación de errores numéricos en la derivada y en la integración. Caracterización de algoritmos iterativos. Rapidez de convergencia. U2. Repaso álgebra lineal (matrices, espacios vectoriales y Teorema de Rouche-Frobenius). Resolución del SEL triangular inferior y superior. Implementación en python. 
+### 04/08: U1. Estimación de errores numéricos en la derivada y en la integración. Caracterización de algoritmos iterativos. Rapidez de convergencia. U2. Repaso álgebra lineal (matrices, espacios vectoriales y Teorema de Rouche-Frobenius). Resolución del SEL triangular inferior y superior. Implementación en python. 
 
 11/09: U2. Método Gauss. Número de condicionamiento. Métodos factorización LU. Teoremas. Método Doolittle.
 
