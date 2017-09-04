@@ -10,17 +10,18 @@ Material complementario de teoría. Prácticas. Algunos de los módulos en pytho
 
 ## Calendario 2017 2do cuatrimestre:
 
-07/08: U1. Aritmetica computacional. Punto fijo.
+07/08: U1. Sistema posicional. Conversión entre sistemas numéricos. La arquitectura Von Neumann de una computadora. Representación de números enteros: punto fijo (representación signo-magnitud y complemento a dos).
 
-14/08: U1. Punto flotante. Errores.
+14/08: U1. Aritmética con enteros complemento a dos. Punto flotante: simple y doble presición. Propiedades de la aritmética de punto flotante. Estándar IEEE. Introducción a los errores por 
+redondeo y truncamiento. Error absoluto y relativo.
 
 21/08: Feriado:  Paso a la Inmortalidad del General José de San Martín Fecha Original: 17-08-2017
 
-28/08: U1. Aritmética a dígitos finitos. Ejemplos. Aritmética anidada. 
+28/08: U1. Aritmética a dígitos finitos. Ejemplos. Multiplicaciones anidadas (cálculo de raíces de polinomios). 
 
-04/08: U1. Ejemplos derivada numérica. Ejemplos integracion numerica. Caracterización de algoritmos. Rapidez de convergencia.  U2. Repaso álgebra lineal. Método Gauss. Implementación en python. Número de condicionamiento.
+04/08: U1. Estimación de errores numéricos en la derivada y en la integración. Caracterización de algoritmos iterativos. Rapidez de convergencia. U2. Repaso álgebra lineal (matrices, espacios vectoriales y Teorema de Rouche-Frobenius). Resolución del SEL triangular inferior y superior. Implementación en python. 
 
-11/09: U2. Métodos factorización LU. Teoremas. Método Doolittle.
+11/09: U2. Método Gauss. Número de condicionamiento. Métodos factorización LU. Teoremas. Método Doolittle.
 
 18/09: U2. Método Cholesky. Pivoteo. Matrices definidas positivas. Matrices especiales. Inversa.
 
