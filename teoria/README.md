@@ -1,10 +1,10 @@
-Cálculo Numérico - 2016 de la Universidad del Comahue. Centro Regional Bariloche. Río Negro, Argentina.
+# Calculo Numerico - 2017 de la Universidad del Comahue. Centro Regional Bariloche
 
-Profesorado y Licenciatura en Matematicas
+## Profesorado y Licenciatura en Matematicas
 http://crubweb.uncoma.edu.ar/
 
-Dr. Rene Cejas Bolecek
-email: reneczechdev@gmail.com
+### Dr. René Cejas Bolecek
+### reneczech@gmail.com
 
 
 Notebooks en python utilizados en la teoría de la materia.

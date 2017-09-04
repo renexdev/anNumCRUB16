@@ -1,30 +1,34 @@
-Calculo Numérico - Universidad del Comahue. Centro Regional Bariloche
+# Calculo Numerico - 2017 de la Universidad del Comahue. Centro Regional Bariloche
 
-Profesorado Universitario en Matematicas (2do cuatrimestre de 2016)
+## Profesorado y Licenciatura en Matematicas
 http://crubweb.uncoma.edu.ar/
 
-Dr. René Cejas Bolecek
-email: reneczech@gmail.com
+### Dr. René Cejas Bolecek
+### reneczech@gmail.com
 
 
-CONTENIDO PROGRAMA ANALÍTICO:
-Unidad 1: Estimación de errores en el análisis numérico
+## CONTENIDO PROGRAMA ANALÍTICO:
+### Unidad 1: Estimación de errores en el análisis numérico
 Sistemas numéricos: binario, octal y hexadecimal. Conceptos básicos en la estimación
 de errores. Propagación de errores. Sistemas de punto fijo y flotante. Redondeo en la
 representación flotante. Propagación de errores de redondeo. Estimación de errores de
 truncamiento. Número de condición y estabilidad numérica.
-Unidad 2: Sistemas de ecuaciones lineales
+
+### Unidad 2: Sistemas de ecuaciones lineales
 Métodos directos: eliminación de Gaussiana. Factorización LU. Estrategias de pivoteo.
 Matrices especiales: simétricas definidas positivas y banda. Análisis de errores en
 sistemas lineales. Métodos iterativos: métodos de Gauss-Seidel, Jacobi.
-Unidad 3: Interpolación y ajuste de curvas
+
+### Unidad 3: Interpolación y ajuste de curvas
 Interpolación polinómica: métodos de Lagrange, Neville. Limitaciones. Interpolación
 con spline cúbico. Ajuste con mínimos cuadrados.
-Unidad 4: Raíces de ecuaciones
+
+### Unidad 4: Raíces de ecuaciones
 Métodos de arranque. Método de bisección. Método de Newton-Raphson. Método de la
 secante. Método de Regula Falsi. Estimación de errores. Raíces múltiples. Sistemas no
 lineales.
-Unidad 5: Diferenciación e integración
+
+### Unidad 5: Diferenciación e integración
 Fórmulas de diferenciación numérica. Diferencias finitas. Extrapolación de Richardson.
 Integración por reglas del rectángulo, de los trapecios y de Simpson. Fórmulas de
 Newton Cotes. Método de Romberg. Cuadratura de Gauss.
