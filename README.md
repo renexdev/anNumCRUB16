@@ -4,7 +4,7 @@
 http://crubweb.uncoma.edu.ar/
 
 ### Dr. René Cejas Bolecek
-### email: reneczech@gmail.com
+### reneczech@gmail.com
 
 Material complementario de teoría. Prácticas. Algunos de los módulos en python utilizados en la práctica de la materia. 
 
